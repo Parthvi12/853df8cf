@@ -3,10 +3,6 @@
     {
       "id": "Page1",
       "isDefault": true
-    },
-    {
-      "id": "NewPage",
-      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -17,7 +13,7 @@
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "isManualUpdate": false,
   "deleted": false
 }
